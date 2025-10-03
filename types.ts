@@ -30,5 +30,5 @@ export interface Transaction {
   type: TransactionType;
   category: CategoryName;
   description: string;
-  date: string; // ISO 8601 format
+  date: string;
 }
