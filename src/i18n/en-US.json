@@ -1,0 +1,32 @@
+{
+  "Translations": {
+    "greetings": "Welcome Back!",
+    "dashboard": "Dashboard",
+    "transactions": "Transactions",
+    "profile": "Profile",
+    "spent": "",
+    "with_no_account": "Don't have an account?",
+    "sign_up": "Sign Up",
+    "continue_with": "Or continue with",
+    "log_in": "Log In",
+    "forgot_password": "Forgot Password?",
+    "password": "Password",
+    "login_to_manage": "Log in to manage your finances.",
+    "balance": "Balance",
+    "you_spent": "You've spent",
+    "of_your_income": "of your income.",
+    "income": "Income",
+    "expenses": "Expenses",
+    "recent_transactions": "Recent Transactions",
+    "no_transactions": "No transactions yet.",
+    "edit": "Edit",
+    "delete": "Delete",
+    "transaction": "Transaction",
+    "amount": "Valor",
+    "description": "Description",
+    "expense": "Expense",
+    "cancel": "Cancel",
+    "save": "Save",
+    "category": "Category"
+  }
+}
